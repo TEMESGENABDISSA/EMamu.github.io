@@ -1,5 +1,5 @@
 # EMamu.github.io
-#Emamu- real -state-website
+# Emamu- real -state-website
 ![part1](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/35f5f5e0-d733-4523-a9e5-9a98742b8924)
 ![part2](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/228fe1a3-4b5e-4ad8-af04-b9c549798787)
 ![part3](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/d833e0d8-9297-4d58-85d8-d4c728439fe0)
@@ -7,7 +7,7 @@
 ![ourservices](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/6482681d-eeac-438f-9100-3443d62e13e6)
 ![aminities](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/5bbc97e9-6df2-4567-a33e-20aa2476fc9d)
 
-# name of the project =  EMAMU-REAL-STATE
+# Name of the project =  EMAMU-REAL-STATE
 # DESCRIPTION
 Emamu Real Estate is an innovative project dedicated to the world of real estate, designed to provide a seamless and comprehensive experience for its users. 
 The platform features a user-friendly navigation bar, offering easy access to key sections such as Home, Sell, Buy, Contact, Login, and Register, ensuring a smooth journey for visitors
@@ -21,14 +21,22 @@ Emamu Real Estate proudly presents a range of amenities associated with each pro
   What our customers say
 Additionally, Emamu Real Estate values the feedback of its customers and proudly features customer testimonials. These testimonials serve as a testament to the quality of service and satisfaction experienced by those who have engaged with Emamu Real Estate, adding a personal touch to the platform.
 
-#Navigation elements 
+# Navigation elements 
+
 HOME
+
 SELL
+
 BUY
+
 RENT
+
 CONTACT
+
 LOGIN
+
 REGISTER
+
 # nav  section
 
 ![INTRO SECTION](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/593edda1-9aa1-401f-9cc9-f8a3c8657587)
@@ -57,15 +65,15 @@ REGISTER
 
 ![features](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/f7186298-c7a6-4bef-aa92-c3067161246f)
 
- #  videosection
+ # videosection
  ![video](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/6a015662-21e7-4c8e-9171-4625773a5666)
 
 
- #   Story
+ # Story
  
 ![testimony](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/5240cd41-50e2-4f49-94ac-ac512c01033b)
 
- #  contact
+ # contact
  
  
 
