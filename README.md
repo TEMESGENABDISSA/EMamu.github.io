@@ -56,7 +56,7 @@ REGISTER
  
 ![property](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/29c67152-6646-4d1c-bacb-0fe6c7a656bf)
 
- # feature section
+ #  feature section
 
  
 ![feature](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/51335ee7-2b63-49b0-b627-ffa2e0dc46dc)
@@ -69,7 +69,7 @@ REGISTER
  ![video](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/6a015662-21e7-4c8e-9171-4625773a5666)
 
 
- # Story
+ #  Story
  
 ![testimony](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/5240cd41-50e2-4f49-94ac-ac512c01033b)
 
