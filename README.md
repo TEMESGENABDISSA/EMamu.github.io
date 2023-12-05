@@ -53,6 +53,10 @@ REGISTER
  
 ![feature](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/51335ee7-2b63-49b0-b627-ffa2e0dc46dc)
 
+# features
+
+![features](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/f7186298-c7a6-4bef-aa92-c3067161246f)
+
  #  videosection
  ![video](https://github.com/TEMESGENABDISSA/EMamu.github.io/assets/109625337/6a015662-21e7-4c8e-9171-4625773a5666)
 
