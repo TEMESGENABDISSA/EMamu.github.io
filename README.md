@@ -9,7 +9,7 @@ The platform features a user-friendly navigation bar, offering easy access to ke
  * css
       Media query  Media Queries are part of the CSS3 specification and are used to apply different styles to a document based on factors such as the screen size,
           device characteristics, or other media features
-*javascript
+* javascript
 
 
 
